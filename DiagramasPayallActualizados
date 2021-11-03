@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T19:32:41.598Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="43RtGlFBn1wqS28esQf7" version="15.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-03T20:34:34.540Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="MWg0B1_xN1BczXLTZFeG" version="15.6.0" type="github" pages="2">
   <diagram id="0x2swNrERA65hTYvdp_8" name="Despliegue">
     <mxGraphModel dx="2126" dy="3216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2720,7 +2720,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yb_mM1o9fd4AcroiYXQL" name="Flujo de datos recargas: Integracion (WSDL)">
-    <mxGraphModel dx="2976" dy="2522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7440" dy="4655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_dlSYpshmapQyUOBsswE-0" />
         <mxCell id="_dlSYpshmapQyUOBsswE-1" parent="_dlSYpshmapQyUOBsswE-0" />
@@ -3702,22 +3702,22 @@
           <mxGeometry x="2430" y="-40" width="300" height="250" as="geometry" />
         </mxCell>
         <mxCell id="8ODGnBhctwbtSkGMLmNF-52" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Operadora: Andinito (compra)&lt;/font&gt;&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=170;height=60;" parent="_dlSYpshmapQyUOBsswE-1" vertex="1">
-          <mxGeometry x="2320" y="-1040" width="50" height="30" as="geometry" />
+          <mxGeometry x="2320" y="-1040" width="1520" height="1600" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-0" value="Perencito" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2380" y="1022.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="2405" y="1022.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-11" value="&amp;lt;&amp;lt;clusterPanelWeb&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2510" y="985" width="180" height="120" as="geometry" />
+          <mxGeometry x="2535" y="985" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-12" value="Canal Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2550" y="1027.5" width="90" height="50" as="geometry" />
+          <mxGeometry x="2575" y="1027.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-13" value="&amp;lt;&amp;lt;server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2760" y="945" width="560" height="220" as="geometry" />
+          <mxGeometry x="2785" y="945" width="560" height="220" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-14" value="«Componente»&lt;br&gt;&lt;b&gt;WS-Payall-Integracion&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2790" y="1020" width="130" height="70" as="geometry" />
+          <mxGeometry x="2815" y="1020" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q8cquhdC2Lao44Z6FrJo-14">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -3725,7 +3725,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-16" value="«Componente»&lt;br&gt;&lt;b&gt;Q2-Payall-Lite-Web&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2970" y="1020" width="130" height="70" as="geometry" />
+          <mxGeometry x="2995" y="1020" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-17" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q8cquhdC2Lao44Z6FrJo-16">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -3734,41 +3734,41 @@
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="q8cquhdC2Lao44Z6FrJo-16" target="q8cquhdC2Lao44Z6FrJo-14" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3070" y="1005" as="sourcePoint" />
-            <mxPoint x="3120" y="955" as="targetPoint" />
+            <mxPoint x="3095" y="1005" as="sourcePoint" />
+            <mxPoint x="3145" y="955" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3035" y="995" />
-              <mxPoint x="2855" y="995" />
+              <mxPoint x="3060" y="995" />
+              <mxPoint x="2880" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="q8cquhdC2Lao44Z6FrJo-14" target="q8cquhdC2Lao44Z6FrJo-16" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2940" y="1195" as="sourcePoint" />
-            <mxPoint x="2990" y="1145" as="targetPoint" />
+            <mxPoint x="2965" y="1195" as="sourcePoint" />
+            <mxPoint x="3015" y="1145" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2855" y="1115" />
-              <mxPoint x="3035" y="1115" />
+              <mxPoint x="2880" y="1115" />
+              <mxPoint x="3060" y="1115" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-20" value="&amp;lt;&amp;lt;server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3380" y="985" width="200" height="130" as="geometry" />
+          <mxGeometry x="3405" y="985" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-21" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2640" y="1043" as="sourcePoint" />
-            <mxPoint x="2790" y="1043" as="targetPoint" />
+            <mxPoint x="2665" y="1043" as="sourcePoint" />
+            <mxPoint x="2815" y="1043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-22" value="" style="endArrow=classic;html=1;exitX=-0.004;exitY=0.612;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.004;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="q8cquhdC2Lao44Z6FrJo-14" target="q8cquhdC2Lao44Z6FrJo-12" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2670" y="1215" as="sourcePoint" />
-            <mxPoint x="2700" y="1095" as="targetPoint" />
+            <mxPoint x="2695" y="1215" as="sourcePoint" />
+            <mxPoint x="2725" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-23" value="«Componente»&lt;br&gt;&lt;b&gt;restful-bemovil&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3410" y="1025" width="135" height="70" as="geometry" />
+          <mxGeometry x="3435" y="1025" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q8cquhdC2Lao44Z6FrJo-23">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -3777,18 +3777,18 @@
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-27" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2420" y="1045" as="sourcePoint" />
-            <mxPoint x="2550" y="1045" as="targetPoint" />
+            <mxPoint x="2445" y="1045" as="sourcePoint" />
+            <mxPoint x="2575" y="1045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-28" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2550" y="1065" as="sourcePoint" />
-            <mxPoint x="2420" y="1066" as="targetPoint" />
+            <mxPoint x="2575" y="1065" as="sourcePoint" />
+            <mxPoint x="2445" y="1066" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-29" value="" style="group" vertex="1" connectable="0" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3705" y="950" width="240" height="180" as="geometry" />
+          <mxGeometry x="3730" y="950" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-30" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="q8cquhdC2Lao44Z6FrJo-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3818,10 +3818,10 @@
           <mxGeometry width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-35" value="&amp;lt;&amp;lt;server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3725" y="982.5" width="200" height="130" as="geometry" />
+          <mxGeometry x="3750" y="982.5" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-36" value="«Componente»&lt;br&gt;&lt;b&gt;Bemovil&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3755" y="1022.4999999999999" width="135" height="70" as="geometry" />
+          <mxGeometry x="3780" y="1022.5" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-37" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q8cquhdC2Lao44Z6FrJo-36">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -3829,13 +3829,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-40" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2940" y="1125" width="20" height="20" as="geometry" />
+          <mxGeometry x="2965" y="1125" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-43" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2940" y="965" width="20" height="20" as="geometry" />
+          <mxGeometry x="2965" y="965" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-44" value="«Componente»&lt;br&gt;&lt;b&gt;Q2-Payall-Bemovil&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3150" y="1020" width="130" height="70" as="geometry" />
+          <mxGeometry x="3175" y="1020" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-45" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q8cquhdC2Lao44Z6FrJo-44">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -3844,26 +3844,26 @@
         </mxCell>
         <mxCell id="KR0QM-2qZaWKwVPC-O18-0" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3039.97" y="1090" as="sourcePoint" />
-            <mxPoint x="3219.97" y="1090" as="targetPoint" />
+            <mxPoint x="3064.97" y="1090" as="sourcePoint" />
+            <mxPoint x="3244.97" y="1090" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3039.97" y="1115" />
-              <mxPoint x="3219.97" y="1115" />
+              <mxPoint x="3064.97" y="1115" />
+              <mxPoint x="3244.97" y="1115" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KR0QM-2qZaWKwVPC-O18-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="_dlSYpshmapQyUOBsswE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3219.97" y="1020" as="sourcePoint" />
-            <mxPoint x="3039.97" y="1020" as="targetPoint" />
+            <mxPoint x="3244.97" y="1020" as="sourcePoint" />
+            <mxPoint x="3064.97" y="1020" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3219.97" y="995" />
-              <mxPoint x="3039.97" y="995" />
+              <mxPoint x="3244.97" y="995" />
+              <mxPoint x="3064.97" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-1" value="" style="group" vertex="1" connectable="0" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="2480" y="897.5" width="1140" height="300" as="geometry" />
+          <mxGeometry x="2505" y="897.5" width="1140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="q8cquhdC2Lao44Z6FrJo-2" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="q8cquhdC2Lao44Z6FrJo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3929,16 +3929,49 @@
           <mxGeometry x="230" y="172.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUvNe-buV72qRcjCKyCI-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3124" y="1123" width="20" height="20" as="geometry" />
+          <mxGeometry x="3149" y="1123" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUvNe-buV72qRcjCKyCI-6" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3650" y="1020" width="20" height="20" as="geometry" />
+          <mxGeometry x="3675" y="1020" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUvNe-buV72qRcjCKyCI-7" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3650" y="1080" width="20" height="20" as="geometry" />
+          <mxGeometry x="3675" y="1080" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUvNe-buV72qRcjCKyCI-22" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
-          <mxGeometry x="3120" y="965" width="20" height="20" as="geometry" />
+          <mxGeometry x="3145" y="965" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-24" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;1. El Canal Web envía una petición de compra de cartones bajo el protocolo SOAP al WS-Payall con los datos de la misma, el cual se encargará de procesar y redirigir la petición al Q2-Payall-Lite-Web.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;- Codigo&lt;br&gt;- Key&lt;br&gt;- Monto&lt;br&gt;- Numero&lt;br&gt;- Operadora (bemovil)&lt;br&gt;- Pin&lt;br&gt;- Producto&lt;br&gt;- Punto de venta&lt;br&gt;- uuid&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#CCE5FF;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="2545" y="1240" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-25" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;2. El WS-Payall envía un mensaje ISO8583 al Q2-Payall-Lite-Web con los datos de la recarga, el cual se encargará de redirigir la petición al Q2 de la operadora correspondiente.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;&lt;/font&gt;0 = 0200&lt;br&gt;3 = Codigo de procesamiento&lt;br&gt;4 = Monto de la transaccion&lt;br&gt;7 = Fecha de la transmision de la transaccion&lt;br&gt;11 = Valor numerico unico generado por el remitente&lt;br&gt;12 = Hora local del remitente&lt;br&gt;13 = Fecha local del remitente&lt;br&gt;15 = Dia del negocio (mismo valor que el campo 13)&lt;br&gt;17 = Fecha de la transaccion (mismo valor que campo 13)&lt;br&gt;22 = Modo de entrada de la transaccion&lt;br&gt;32 = Codigo ABA&lt;br&gt;35 = Valor de la tarjeta virtual&lt;br&gt;37 = Valor unico asignado por el remitente&lt;br&gt;41 = Numero de punto de venta&lt;br&gt;43 = Ubicacion de la institucion dueña del Terminal&lt;br&gt;48 = Identifica el comercio de acuerdo al tipo de GRE&lt;br&gt;49 = Valor asociado al codigo de moneda&lt;br&gt;60 = Informacion relacionada al POS de la transaccion&lt;br&gt;61 = Categoria de la respuesta del emisor de la tarjeta&lt;br&gt;62 = Data adicional&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.1 = Codigo unico de transaccion&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.2 = Tipo de transaccion (recarga)&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.3 = Numero de punto de venta&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.4 = Operadora (bemovil)&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.5 = Codigo de producto&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.6 = Cedula cliente&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.11 = Pin de seguridad&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.12 = Codigo de seguridad&lt;br&gt;	&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.13 = Codigo unico de cliente&lt;br&gt;121 = Codigo de operador de taquilla&lt;br&gt;124 = Numero de lote, de secuencia de lote y de turno&lt;br&gt;125 = Codigo numerico o siglas asociadas a la entidad&lt;br&gt;126 = Data de pre-autorizacion" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="2805" y="1240" width="330" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-26" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;3. El Q2-Payall-Lite-Web envía un mensaje ISO8583 al Q2-Payall-Bemovil con los datos de la compra, el cual se encargará de redirigir la petición al restful-bemovil.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;&lt;/font&gt;0 = 0200&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;3 = Codigo procesamiento (INCONSISTENTE)&lt;/span&gt;&lt;br&gt;4 = Monto de la transaccion&lt;br&gt;7 = Fecha de la transmision de la transaccion&lt;br&gt;11 = Valor numerico unico generado por el remitente&lt;br&gt;12 = Hora local del remitente&lt;br&gt;13 = Fecha local del remitente&lt;br&gt;15 = Dia del negocio (mismo valor que el campo 13)&lt;br&gt;17 = Fecha de la transaccion (mismo valor que el campo 13)&lt;br&gt;22 = Modo de entrada de la transaccion&lt;br&gt;32 = Codigo ABA&lt;br&gt;35 = Valor de la tarjeta virtual&lt;br&gt;37 = Valor unico asignado por el remitente&lt;br&gt;41 = Numero de punto de venta&lt;br&gt;43 = Ubicacion de la institucion dueña del Terminal&lt;br&gt;48 = Identifica al comercio de acuerdo al tipo de GRE&lt;br&gt;49 = Valor asociado al codigo de moneda&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;58 = (NO SALE EN DOCUMENTACION)&lt;/span&gt;&lt;br&gt;60 = Informacion relacionada al POS de la transaccion&lt;br&gt;61 = Categoria de la respuesta del emisor de la tarjeta&lt;br&gt;62 = Data adicional&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.1 = Codigo unico de transaccion&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.2 = Tipo de transaccion (validar)&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.3 = Numero de punto de venta&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51) ; white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;62.4 = Canal (web) (INCONSISTENTE)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.5 = Codigo de producto&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.6 = Cedula cliente&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.11 = Pin de seguridad&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.12 = Codigo de seguridad&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.13 = Codigo unico de cliente&lt;br&gt;121 = Codigo de operador de taquilla&lt;br&gt;124 = Numero de lote, de secuencia de lote y de turno&lt;br&gt;125 = Codigo numerico o siglas asociadas a la entidad&lt;br&gt;126 = Data de pre-autorizacion&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="3175" y="1240" width="330" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-27" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;4. El Q2-Payall-Bemovil envía una trama ISO con los datos de la recarga al restful-bemovil que hace de intermediario entre el Q2-Payall-Bemovil y el simulador Bemovil solo para transformar la petición de la recarga en formato JSON&lt;/b&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="3545" y="1240" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-28" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;5. El restful-bemovil envía un JSON a la operadora Bemovil con los datos de la compra.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;&lt;/font&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;operador&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;movil&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;valor&quot; (Monto de la recarga),&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;transactionId&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;usuario&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;contrasena&quot;&lt;br&gt;}&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#B9E0A5;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="3545" y="1320" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-29" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;6. La operadora Bemovil responde al restful-bemovil con la respuesta de la recarga&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;&lt;/font&gt;{&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;codigo_respuesta&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;transacciones&quot; (cantidad de transacciones),&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;fecha&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;hora&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;codigo_aprobacion&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;telefono&quot;,&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;valor&quot; (Monto de la recarga),&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;operador&quot;&lt;br&gt;}&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#B9E0A5;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="3545" y="1510" width="270" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-30" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;7. El restful-bemovil transforma la respuesta en formato JSON de la operadora/simulador bemovil en ISO para remitirla al Q2-Payall-Bemovil&lt;/b&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="3545" y="1730" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-31" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;8. El&amp;nbsp;&lt;/b&gt;&lt;b&gt;Q2-Payall-Bemovil&lt;/b&gt;&lt;b&gt;&amp;nbsp;envía una respuesta como mensaje ISO8583 al&amp;nbsp;&lt;/b&gt;&lt;b&gt;Q2-Payall-Lite-Web&lt;/b&gt;&lt;b&gt;&amp;nbsp;con el resultado de la compra.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;&lt;/font&gt;0 = 0210&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;3 = Codigo de procesamiento (INCONSISTENTE)&lt;/span&gt;&lt;br&gt;4 = Saldo disponible&lt;br&gt;7 = Fecha de la transaccion&lt;br&gt;11 = Valor numerico unico generado por el remitente&lt;br&gt;12 = Hora local del remitente&lt;br&gt;13 = Fecha local del remitente&lt;br&gt;15 = Dia del negocio (mismo valor que el campo 13)&lt;br&gt;17 = Fecha de la transaccion (mismo valor que el campo 13)&lt;br&gt;22 = Modo de entrada de la transaccion&lt;br&gt;32 = Codigo ABA&lt;br&gt;35 = Valor de la tarjeta virtual&lt;br&gt;37 = Valor unico asignado por el remitente&lt;br&gt;39 = Codigo de respuesta&lt;br&gt;41 = ID del dispositivo que origina la transaccion&lt;br&gt;43 = Ubicacion de la institucion dueña del Terminal&lt;br&gt;48 = Identifica al comercio de acuerdo al tipo de GRE&lt;br&gt;49 = Valor asociado al codigo moneda&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;58 = (NO SALE EN LA DOCUMENTACION)&lt;/span&gt;&lt;br&gt;60 = Informacion relacionada al POS de la transaccion&lt;br&gt;61 = Categoria de la respuesta del emisor de la tarjeta&lt;br&gt;62 = Data adicional&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.1 = Codigo unico de transaccion&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.2 = Tipo de transaccion (validar)&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.3 = Numero de punto de venta&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;62.4 = Canal (web) (INCONSISTENTE)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.5 = Codigo de producto&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.6 = Cedula cliente&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.11 = Pin de seguridad&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.12 = Codigo de seguridad&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.13 = Codigo unico de cliente&lt;br&gt;81 = Codigo de aprobacion de recarga&lt;br&gt;121 = Codigo de operador de taquilla&lt;br&gt;124 = Numero de lote, de secuencia de lote y de turno&lt;br&gt;125 = Codigo numerico o siglas asociadas a la entidad&lt;br&gt;126 = Data de pre-autorizacion&lt;br&gt;&lt;span&gt;	&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="3255" y="1820" width="390" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-32" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;9. El&amp;nbsp;&lt;/b&gt;&lt;b&gt;Q2-Payall-Lite-Web&lt;/b&gt;&lt;b&gt;&amp;nbsp;envía una respuesta como mensaje ISO8583 al WS&lt;/b&gt;&lt;b&gt;-Payall-Integracion&lt;/b&gt;&lt;b&gt;&amp;nbsp;con el resultado de la recarga.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;&lt;/font&gt;0 = 0210&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;3 = Codigo de procesamiento (INCONSISTENTE)&lt;/span&gt;&lt;br&gt;4 = Saldo disponible&lt;br&gt;7 = Fecha de la transaccion&lt;br&gt;11 = Valor numerico unico generado por el remitente&lt;br&gt;12 = Hora local del remitente&lt;br&gt;13 = Fecha local del remitente&lt;br&gt;15 = Dia del negocio (mismo valor que el campo 13)&lt;br&gt;17 = Fecha de la transaccion (mismo valor que el campo 13)&lt;br&gt;22 = Modo de entrada de la transaccion&lt;br&gt;32 = Codigo ABA&lt;br&gt;35 = Valor de la tarjeta virtual&lt;br&gt;37 = Valor unico asignado por el remitente&lt;br&gt;39 = Codigo de respuesta&lt;br&gt;41 = ID del dispositivo que origina la transaccion&lt;br&gt;43 = Ubicacion de la institucion dueña del Terminal&lt;br&gt;48 = Identifica al comercio de acuerdo al tipo de GRE&lt;br&gt;49 = Valor asociado al codigo moneda&lt;br&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;58 = (NO SALE EN LA DOCUMENTACION)&lt;/span&gt;&lt;br&gt;60 = Informacion relacionada al POS de la transaccion&lt;br&gt;61 = Categoria de la respuesta del emisor de la tarjeta&lt;br&gt;62 = Data adicional&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.1 = Codigo unico de transaccion&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.2 = Tipo de transaccion (validar)&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.3 = Numero de punto de venta&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;62.4 = Canal (web) (INCONSISTENTE)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.5 = Codigo de producto&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.6 = Cedula cliente&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.11 = Pin de seguridad&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.12 = Codigo de seguridad&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;62.13 = Codigo unico de cliente&lt;br&gt;81 = Codigo de aprobacion de recarga&lt;br&gt;121 = Codigo de operador de taquilla&lt;br&gt;124 = Numero de lote, de secuencia de lote y de turno&lt;br&gt;125 = Codigo numerico o siglas asociadas a la entidad&lt;br&gt;126 = Data de pre-autorizacion&lt;br&gt;&lt;span&gt;	&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="2825" y="1820" width="390" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-33" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;8. El WS-Payall-Integracion envía una respuesta al canal web bajo el protocolo soap&lt;br&gt;&lt;/b&gt;&lt;br&gt;Datos a enviar:&lt;br&gt;- Codigo de aprobacion&lt;br&gt;- Codigo respuesta&lt;br&gt;- JSON {&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Saldo disponible (cantidad de cartones comprados)&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Success (true o false)&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Codigo respuesta&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Codigo aprobacion&lt;br&gt;}&lt;br&gt;- Punto de venta&lt;br&gt;- Saldo disponible (cantidad de cartones comprados)&lt;br&gt;- String (resultado recarga, codigo aprobacion y saldo disponible)&lt;br&gt;- Success (true o false)&lt;br&gt;- uuid&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#CCE5FF;strokeColor=#d6b656;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="2485" y="1820" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GUvNe-buV72qRcjCKyCI-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Operadora: Bemovil (Amazon Prime)&lt;/font&gt;&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=195;height=60;" vertex="1" parent="_dlSYpshmapQyUOBsswE-1">
+          <mxGeometry x="2320" y="820" width="1745" height="1660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
